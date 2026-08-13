@@ -1,0 +1,1 @@
+lib/features/equalizer/screens/equalizer_screen.dart
